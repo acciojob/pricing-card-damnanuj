@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.card{
+  width: 200px;
+  height: auto;
+  background-color: bisque;
+}
+img{
+  width: 100px;
+}
+.btn{
+  padding: 10px 20px;
+  color: white;
+  background-color: brown;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+}
